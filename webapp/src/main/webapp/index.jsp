@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1>Sample Login Page</h1>
+<h2>Welcome</h2>
 </body>
 <body style="color:red;">
  <div class="container">
